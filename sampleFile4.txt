@@ -1,0 +1,18 @@
+6
+5
+-1 -1 1 3 1
+2 -1 2 -1 3
+-1 2 0 2 -1 -1
+2 2 -1 -1 -1 3
+LRTLR
+LRBLR
+TLRLR
+BLRLR
+LRTLR
+LRBLR
++-X-+
+-+X+-
+XXXXX
+X+-+-
++-+XX
+-+-+-
